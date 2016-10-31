@@ -1,2 +1,3 @@
 # react-native-webview-bridge
-patched xcode to require iOS 8.0 instead of 9
+--------------------
+- patched in xcode for minimum iOS version 8.0 instead of default 9 
